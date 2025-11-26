@@ -1,7 +1,7 @@
 import imageio.v3 as iio
 from PIL import Image
 
-filenames = ['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg']
+filenames = ['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg']
 images = []
 
 first = Image.open(filenames[0])

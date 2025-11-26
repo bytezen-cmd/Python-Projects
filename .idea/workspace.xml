@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d91e939-1f04-4f33-8d86-d060813ccfb2" name="Changes" comment="Completed Code">
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+    <list default="true" id="7d91e939-1f04-4f33-8d86-d060813ccfb2" name="Changes" comment="Added LICENSE.txt">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat_running.gif" beforeDir="false" afterPath="$PROJECT_DIR$/cat_running.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_gif.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_gif.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,13 +89,22 @@
       <option name="project" value="LOCAL" />
       <updated>1764175788138</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added LICENSE.txt">
+      <option name="closed" value="true" />
+      <created>1764175922711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764175922711</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Completed Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Code" />
+    <MESSAGE value="Added LICENSE.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added LICENSE.txt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
