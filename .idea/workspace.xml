@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d91e939-1f04-4f33-8d86-d060813ccfb2" name="Changes" comment="Added the word_guessing_game.py and done some changes to create_gif.py">
+    <list default="true" id="7d91e939-1f04-4f33-8d86-d060813ccfb2" name="Changes" comment="Updated the README.md">
+      <change afterPath="$PROJECT_DIR$/home_price_via_linear_regression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.create_gif.executor": "Run",
+    "Python.home_price_via_linear_regression.executor": "Run",
+    "Python.virtual_voice_assistant.executor": "Run",
     "Python.word_guessing_game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -123,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764244405885</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated the README.md">
+      <option name="closed" value="true" />
+      <created>1764247399659</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764247399659</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +153,8 @@
     <MESSAGE value="Added LICENSE.txt" />
     <MESSAGE value="Finalisation of gif creation project." />
     <MESSAGE value="Added the word_guessing_game.py and done some changes to create_gif.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the word_guessing_game.py and done some changes to create_gif.py" />
+    <MESSAGE value="Updated the README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
