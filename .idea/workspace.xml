@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d91e939-1f04-4f33-8d86-d060813ccfb2" name="Changes" comment="Updated the README.md">
-      <change afterPath="$PROJECT_DIR$/home_price_via_linear_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7d91e939-1f04-4f33-8d86-d060813ccfb2" name="Changes" comment="Created a new project following the guidelines on codedex.">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764247399659</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Created a new project following the guidelines on codedex.">
+      <option name="closed" value="true" />
+      <created>1764257664150</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764257664150</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +161,8 @@
     <MESSAGE value="Finalisation of gif creation project." />
     <MESSAGE value="Added the word_guessing_game.py and done some changes to create_gif.py" />
     <MESSAGE value="Updated the README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the README.md" />
+    <MESSAGE value="Created a new project following the guidelines on codedex." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a new project following the guidelines on codedex." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
