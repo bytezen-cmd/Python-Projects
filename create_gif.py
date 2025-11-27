@@ -1,3 +1,12 @@
+#   Before running this python script to create a gif. Run this commands in the terminal:
+#       pip install pillow imageio
+#   Change the name of the image in the filename list to create a custom gif.
+#   Add those image to the project folder.
+#   if you don't want to use PIL make sure the images are of the same size.
+#   run the script to create a custome gif.
+#   It will be saved under the name 'cat_running.gif' in the project folder.
+
+
 import imageio.v3 as iio
 from PIL import Image
 
