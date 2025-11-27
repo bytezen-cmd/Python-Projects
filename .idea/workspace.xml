@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d91e939-1f04-4f33-8d86-d060813ccfb2" name="Changes" comment="Finalisation of gif creation project.">
-      <change afterPath="$PROJECT_DIR$/word_guessing_game.py" afterDir="false" />
+    <list default="true" id="7d91e939-1f04-4f33-8d86-d060813ccfb2" name="Changes" comment="Added the word_guessing_game.py and done some changes to create_gif.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_gif.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_gif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764176381815</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added the word_guessing_game.py and done some changes to create_gif.py">
+      <option name="closed" value="true" />
+      <created>1764244405885</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764244405885</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,7 +142,8 @@
     <MESSAGE value="Completed Code" />
     <MESSAGE value="Added LICENSE.txt" />
     <MESSAGE value="Finalisation of gif creation project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalisation of gif creation project." />
+    <MESSAGE value="Added the word_guessing_game.py and done some changes to create_gif.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the word_guessing_game.py and done some changes to create_gif.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

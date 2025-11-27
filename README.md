@@ -1,63 +1,94 @@
-# GIF Creator
+# Python Project Collection
 
-A simple Python script to create animated GIFs from a sequence of images.
+A collection of fun and useful Python scripts for image processing and interactive games.
 
-## Description
+## Projects Included
 
-This project provides a straightforward way to combine multiple static images into an animated GIF file. The script automatically resizes all images to match the dimensions of the first image, ensuring consistency in the final animation.
+### 1. GIF Creator
 
-## Features
+A simple script to create animated GIFs from a sequence of static images.
 
+**Features:**
 - Converts multiple images into a single animated GIF
 - Automatically resizes images to maintain consistent dimensions
-- Customizable frame duration
-- Configurable loop settings
+- Customizable frame duration and loop settings
 
-## Requirements
-
+**Requirements:**
 - Python 3.x
 - imageio
 - Pillow (PIL)
 
-## Installation
-
-Install the required dependencies using pip:
+**Installation:**
 
 ```bash
 pip install imageio pillow
 ```
 
-## Usage
+**Usage:**
 
-1. Place your source images (JPG format) in the same directory as the script
-2. Update the `filenames` list in `create_gif.py` with your image filenames
-3. Run the script:
+Place your JPG images in the same directory as the script, then update the `filenames` list in `create_gif.py`:
+
+```python
+filenames = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg']
+```
+
+Run the script:
 
 ```bash
 python create_gif.py
 ```
 
-The script will generate an animated GIF named `cat_running.gif` in the same directory.
+The animated GIF will be saved as `cat_running.gif`.
 
-## Configuration
+**Customization:**
 
-You can customize the animation by modifying the following parameters in `create_gif.py`:
+Modify these parameters in `create_gif.py`:
+- `filenames`: List of input image files
+- `duration`: Frame duration in milliseconds (default: 200ms)
+- `loop`: Number of times the GIF loops (0 = infinite)
+- Output filename: Change the saved filename as needed
 
-- **filenames**: List of input image files
-- **duration**: Frame duration in milliseconds (default: 200ms)
-- **loop**: Number of times the GIF loops (0 = infinite loop)
-- **output filename**: Change the output GIF filename as needed
+---
 
-## Example
+### 2. Word Guessing Game
 
-```python
-filenames = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg']
-iio.imwrite('output.gif', images, duration=200, loop=0)
+An interactive word guessing game where you try to figure out a randomly selected word with a limited number of attempts.
+
+**Features:**
+- Draws from a comprehensive English word bank
+- Pre-reveals all vowels to help get started
+- Tracks attempted letters to prevent duplicates
+- 10 attempts to guess the word correctly
+
+**Requirements:**
+- Python 3.x
+- english-words
+
+**Installation:**
+
+```bash
+pip install english-words
 ```
+
+**Usage:**
+
+```bash
+python word_guessing_game.py
+```
+
+Follow the on-screen prompts to guess letters. Try to reveal the complete word before your attempts run out!
+
+**Gameplay Tips:**
+- Vowels are revealed at the start
+- You can't guess the same letter twice
+- Each wrong guess costs one attempt
+- You have 10 attempts total
+
+---
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+Both projects are licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Author
 
